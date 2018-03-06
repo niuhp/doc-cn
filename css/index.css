@@ -1,0 +1,10 @@
+.logo_grpc {
+    border-radius: 1px;
+    border: 6px solid #fff;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    padding: 15px 20px;
+    width: 195px;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
